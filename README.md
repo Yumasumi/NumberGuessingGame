@@ -21,11 +21,11 @@
 1. 確保已安裝 JDK 8+
 2. 編譯程式：
 ```bash
-javac Game.java
+javac NumberGuessingGame.java
 ```
 3. 執行：
 ```bash
-java Game
+java NumberGuessingGame
 ```
 
 - 專案目的：
